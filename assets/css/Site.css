@@ -2,7 +2,12 @@
 }
 
 .myPic {
-    height: 250px;
+    height: 290px;
     width: 187.5px;
     border-radius: 25px;
+    margin-top: -40px;
+}
+
+#projects {
+    font-size: 50px;
 }

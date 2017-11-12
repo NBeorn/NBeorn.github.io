@@ -1796,7 +1796,7 @@
 	}
 
 	body {
-		background: #ffffff;
+		background: #24292E;
 	}
 
 		body.is-loading * {
@@ -1905,7 +1905,7 @@
 		header p {
 			position: relative;
 			top: -1em;
-			color: #888888;
+			color: #3F3441;
 			text-transform: uppercase;
 			letter-spacing: 0.075em;
 		}
@@ -2097,11 +2097,12 @@
 			-ms-transition: opacity 0.25s ease-in-out;
 			transition: opacity 0.25s ease-in-out;
 			background-image: url("images/overlay.png");
+            background-size: cover;
 			content: '';
 			display: block;
 			height: 100%;
 			left: 0;
-			opacity: 0.2;
+			opacity: 0;
 			position: absolute;
 			top: 0;
 			width: 100%;
