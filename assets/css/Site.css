@@ -11,3 +11,8 @@
 #projects {
     font-size: 50px;
 }
+
+.addPadding {
+    padding-left: 30px;
+    padding-right: 30px;
+}
